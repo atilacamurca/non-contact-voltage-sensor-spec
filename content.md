@@ -44,6 +44,11 @@ eletricidade estática de um corpo.
 
 # Funcionamento
 
+\begin{figure}[h]
+	\includegraphics[scale=0.15]{img/IMG_20160521_101811.jpg}
+	\caption{Circuito na Protoboard}
+\end{figure}
+
 A ideia básica de funcionamento é a seguinte: Ao acionar o _Push Button_ o sistema
 é energizado e está preparado para detectar tensão. Para isso é utilizado uma espécie
 de antena, a qual ao estar próxima a uma fonte de tensão em que há um campo
@@ -69,7 +74,15 @@ equipamentos. Na dúvida evite o contato.
 Também não utilize perto de fios desencapados, ou diretamente no plug da tomada.
 Também a riscos de choque nesses casos.
 
+# Bibliografia
 
+* Non-Contact Voltage Detector
+
+<http://makezine.com/projects/non-contact-voltage-detector/>
+
+* BC546/547/548/549/550 Fairchild Datasheet
+
+<http://www.electroschematics.com/wp-content/uploads/2012/06/BC546-BC547-BC548-BC549-BC550-datasheet.pdf>
 
 
 
